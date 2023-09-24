@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /obrigado
+Disallow: /oferta-unica-reuniao-mensal
+Disallow: /oferta-unica-reuniao-quinzenal
+Disallow: /404
